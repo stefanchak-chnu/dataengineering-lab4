@@ -1,0 +1,43 @@
+day,start_station,trips_count,rank
+18,Canal St & Adams St,123,1
+18,Clinton St & Madison St,115,2
+18,Clinton St & Washington Blvd,94,3
+19,Canal St & Adams St,133,1
+19,Clinton St & Madison St,123,2
+19,Clinton St & Washington Blvd,95,3
+20,Canal St & Adams St,131,1
+20,Clinton St & Washington Blvd,109,2
+20,Clinton St & Madison St,94,3
+21,Streeter Dr & Grand Ave,63,1
+21,Kingsbury St & Kinzie St,47,2
+21,Wells St & Concord Ln,46,3
+22,Shedd Aquarium,87,1
+22,Lake Shore Dr & Monroe St,79,2
+22,Streeter Dr & Grand Ave,70,3
+23,Canal St & Adams St,109,1
+23,Clinton St & Madison St,87,2
+23,Clinton St & Washington Blvd,78,3
+24,Clinton St & Washington Blvd,38,1
+24,Streeter Dr & Grand Ave,38,2
+24,Daley Center Plaza,34,3
+25,Streeter Dr & Grand Ave,136,1
+25,Millennium Park,76,2
+25,Lake Shore Dr & Monroe St,64,3
+26,Streeter Dr & Grand Ave,165,1
+26,Lake Shore Dr & Monroe St,104,2
+26,Columbus Dr & Randolph St,88,3
+27,Streeter Dr & Grand Ave,67,1
+27,Canal St & Adams St,61,2
+27,Clinton St & Washington Blvd,61,3
+28,Lake Shore Dr & Monroe St,55,1
+28,Kingsbury St & Kinzie St,39,2
+28,Streeter Dr & Grand Ave,29,3
+29,Lake Shore Dr & Monroe St,129,1
+29,Streeter Dr & Grand Ave,100,2
+29,Shedd Aquarium,69,3
+30,Canal St & Adams St,74,1
+30,Clinton St & Washington Blvd,55,2
+30,Clinton St & Madison St,50,3
+31,Clinton St & Washington Blvd,36,1
+31,Kingsbury St & Kinzie St,30,2
+31,Columbus Dr & Randolph St,28,3
